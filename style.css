@@ -32,9 +32,15 @@ body{
     gap: 0px;
     opacity: 0px;
     position: relative;
+    margin: -20rem 0rem 0rem 0rem;;
 }
 
 
 .imgboddy{
     position: absolute;
+}
+.secimg{
+
+
+margin:7rem 0rem 0rem -4rem;
 }
